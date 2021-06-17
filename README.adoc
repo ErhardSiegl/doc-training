@@ -1,5 +1,18 @@
 = Willkommen zum Training
 Erhard
 
-== Kapitel 1
-Erstes Kapitel
+== Beispiele
+Beispiele für gute oder schlechte Dokumentation.
+
+=== Schlechte Doku
+* Wollte einen Bug im Red Hat Code Fixen. Im Code waren keinerlei Anhaltspunkte wofür
+  Klassen zuständig sind
+* Auf der Webseite eines Tools steht zwar ein Quickstart aber keinerlei Hinweis, was das Tool eigentlich
+  macht und wofür es zu verwenden ist
+
+=== Gute Doku
+* Im Spring Framework steht am Beginn jeder (öffentlichen) Klasse wie sie zu verwenden ist
+
+=== Wo dokumentierest du?
+* Im TOBA-Projekt im Confluence
+* Als Option -h in den Skripts
